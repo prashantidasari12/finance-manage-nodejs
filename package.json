@@ -1,0 +1,14 @@
+{
+  "name": "financeapp",
+  "version": "1.0.0",
+  "description": "finance-manage-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "Prashanti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
